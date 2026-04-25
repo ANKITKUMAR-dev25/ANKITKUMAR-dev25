@@ -12,9 +12,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220"/>
 </p>
-I'm a **self-taught Full Stack Web Developer** and **Freelance Software Engineer** based in **Pune, India 🇮🇳**.  
+I'm a **self-taught Full Stack Web Developer** and **Freelance Software Engineer** .  
 I love building web apps, learning new technologies, and contributing to open-source.  
-Currently studying at **VIT College, Pune 🎓**.
+Currently studying at **LNCT College, Bhopal 🎓**.
 
 ---
 
@@ -118,9 +118,9 @@ Currently studying at **VIT College, Pune 🎓**.
   <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200"/>
 </p>
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: https://twitter.com/yourhandle  
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin ](https://www.linkedin.com/in/ankit-kumar-b1041122b/) 
+- 📧 Email: 8250136105a@gmail.com 
+
 
 ---
 
